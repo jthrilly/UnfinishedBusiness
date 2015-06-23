@@ -1,0 +1,426 @@
+2015-06-04 16:10:09.997 UnfinishedBusiness[8253:271291] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/FC2FA1CD-BDA0-407C-998E-2D691A659DD7/Library/Cookies/Cookies.binarycookies
+2015-06-04 16:10:10.191 UnfinishedBusiness[8253:271291] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 16:10:10.191 UnfinishedBusiness[8253:271291] Multi-tasking -> Device: YES, App: YES
+2015-06-04 16:10:10.199 UnfinishedBusiness[8253:271291] Unlimited access to network resources
+2015-06-04 16:10:10.206 UnfinishedBusiness[8253:271291] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 16:10:10.703 UnfinishedBusiness[8253:271291] Resetting plugins due to page load.
+2015-06-04 16:10:10.801 UnfinishedBusiness[8253:271291] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/111791D5-2914-4956-9143-8021A885F2F6/UnfinishedBusiness.app/www/index.html
+2015-06-04 16:11:27.966 UnfinishedBusiness[8498:273464] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/59F47768-58B4-419D-80A8-35A4BDF1A166/Library/Cookies/Cookies.binarycookies
+2015-06-04 16:11:28.103 UnfinishedBusiness[8498:273464] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 16:11:28.104 UnfinishedBusiness[8498:273464] Multi-tasking -> Device: YES, App: YES
+2015-06-04 16:11:28.106 UnfinishedBusiness[8498:273464] Unlimited access to network resources
+2015-06-04 16:11:28.108 UnfinishedBusiness[8498:273464] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 16:11:28.265 UnfinishedBusiness[8498:273464] Resetting plugins due to page load.
+2015-06-04 16:11:28.322 UnfinishedBusiness[8498:273464] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/E08E5603-5E6D-41AA-B7F8-18DB6CAD2B4F/UnfinishedBusiness.app/www/index.html
+2015-06-04 16:15:40.476 UnfinishedBusiness[8705:276972] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/E1881F8A-E55C-4F0A-A962-29B0A5146332/Library/Cookies/Cookies.binarycookies
+2015-06-04 16:15:40.604 UnfinishedBusiness[8705:276972] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 16:15:40.605 UnfinishedBusiness[8705:276972] Multi-tasking -> Device: YES, App: YES
+2015-06-04 16:15:40.607 UnfinishedBusiness[8705:276972] Unlimited access to network resources
+2015-06-04 16:15:40.609 UnfinishedBusiness[8705:276972] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 16:15:40.752 UnfinishedBusiness[8705:276972] Resetting plugins due to page load.
+2015-06-04 16:15:40.790 UnfinishedBusiness[8705:276972] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/B0E85CAE-CB6A-448B-A1F9-846395E90AF0/UnfinishedBusiness.app/www/index.html
+2015-06-04 16:15:49.816 UnfinishedBusiness[8705:277164] Terminating since there is no system app.
+2015-06-04 16:20:10.182 UnfinishedBusiness[8927:280573] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/09CBFE33-0E0F-40FF-9DD1-716C45284D16/Library/Cookies/Cookies.binarycookies
+2015-06-04 16:20:10.335 UnfinishedBusiness[8927:280573] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 16:20:10.335 UnfinishedBusiness[8927:280573] Multi-tasking -> Device: YES, App: YES
+2015-06-04 16:20:10.337 UnfinishedBusiness[8927:280573] Unlimited access to network resources
+2015-06-04 16:20:10.339 UnfinishedBusiness[8927:280573] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 16:20:10.492 UnfinishedBusiness[8927:280573] Resetting plugins due to page load.
+2015-06-04 16:20:10.561 UnfinishedBusiness[8927:280573] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/C5CFDCDF-F459-432E-99FE-A05F536CC7CF/UnfinishedBusiness.app/www/index.html
+2015-06-04 16:20:19.187 UnfinishedBusiness[8927:280573] Capture.captureVideo: video mode not available.
+2015-06-04 16:20:22.687 UnfinishedBusiness[8927:280573] THREAD WARNING: ['VideoCapturePlus'] took '3500.491699' ms. Plugin should use a background thread.
+2015-06-04 16:21:33.828 UnfinishedBusiness[8927:280573] Capture.captureVideo: video mode not available.
+2015-06-04 16:21:35.629 UnfinishedBusiness[8927:280573] THREAD WARNING: ['VideoCapturePlus'] took '1801.014893' ms. Plugin should use a background thread.
+2015-06-04 16:23:53.684 UnfinishedBusiness[8927:280573] Capture.captureVideo: video mode not available.
+2015-06-04 16:23:55.524 UnfinishedBusiness[8927:280573] THREAD WARNING: ['VideoCapturePlus'] took '1839.947021' ms. Plugin should use a background thread.
+2015-06-04 16:23:56.601 UnfinishedBusiness[8927:280573] Capture.captureVideo: video mode not available.
+2015-06-04 16:23:58.413 UnfinishedBusiness[8927:280573] THREAD WARNING: ['VideoCapturePlus'] took '1813.194092' ms. Plugin should use a background thread.
+2015-06-04 16:23:59.718 UnfinishedBusiness[8927:280573] Capture.captureVideo: video mode not available.
+2015-06-04 16:24:01.268 UnfinishedBusiness[8927:280573] THREAD WARNING: ['VideoCapturePlus'] took '1550.576904' ms. Plugin should use a background thread.
+2015-06-04 18:07:29.346 UnfinishedBusiness[8927:346806] Terminating since there is no system app.
+2015-06-04 18:21:24.210 UnfinishedBusiness[11116:354871] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/BCD5700D-E4FE-4BC9-9692-BB99725B93A0/Library/Cookies/Cookies.binarycookies
+2015-06-04 18:21:24.351 UnfinishedBusiness[11116:354871] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 18:21:24.352 UnfinishedBusiness[11116:354871] Multi-tasking -> Device: YES, App: YES
+2015-06-04 18:21:24.360 UnfinishedBusiness[11116:354871] Unlimited access to network resources
+2015-06-04 18:21:24.366 UnfinishedBusiness[11116:354871] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 18:21:24.529 UnfinishedBusiness[11116:354871] Resetting plugins due to page load.
+2015-06-04 18:21:24.600 UnfinishedBusiness[11116:354871] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/F3CFC1BC-4D2A-4ECD-A084-646FFB50F184/UnfinishedBusiness.app/www/index.html
+2015-06-04 18:21:27.773 UnfinishedBusiness[11116:354871] Capture.captureVideo: video mode not available.
+2015-06-04 18:21:29.970 UnfinishedBusiness[11116:354871] THREAD WARNING: ['VideoCapturePlus'] took '2198.956055' ms. Plugin should use a background thread.
+2015-06-04 19:41:14.482 UnfinishedBusiness[12694:401471] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/2C9E74D3-4CC5-4291-82A1-3EAC7C211697/Library/Cookies/Cookies.binarycookies
+2015-06-04 19:41:14.555 UnfinishedBusiness[12694:401471] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 19:41:14.556 UnfinishedBusiness[12694:401471] Multi-tasking -> Device: YES, App: YES
+2015-06-04 19:41:14.558 UnfinishedBusiness[12694:401471] Unlimited access to network resources
+2015-06-04 19:41:14.561 UnfinishedBusiness[12694:401471] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 19:41:14.646 UnfinishedBusiness[12694:401471] [CDVTimer][file] 5.913019ms
+2015-06-04 19:41:14.646 UnfinishedBusiness[12694:401471] [CDVTimer][TotalPluginStartup] 6.356001ms
+2015-06-04 19:41:14.720 UnfinishedBusiness[12694:401471] Resetting plugins due to page load.
+2015-06-04 19:41:14.760 UnfinishedBusiness[12694:401471] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/81B8E741-9F42-4D38-8F02-FF1AF9558EF5/UnfinishedBusiness.app/www/index.html
+2015-06-04 19:41:18.344 UnfinishedBusiness[12694:401471] Capture.captureVideo: video mode not available.
+2015-06-04 19:41:19.106 UnfinishedBusiness[12694:401471] Capture.captureVideo: video mode not available.
+2015-06-04 19:41:22.776 UnfinishedBusiness[12694:401471] Capture.captureVideo: video mode not available.
+2015-06-04 19:41:57.500 UnfinishedBusiness[12857:402284] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/920A88E3-5FFD-4A81-B972-FE0FFF39A4D0/Library/Cookies/Cookies.binarycookies
+2015-06-04 19:41:57.591 UnfinishedBusiness[12857:402284] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 19:41:57.591 UnfinishedBusiness[12857:402284] Multi-tasking -> Device: YES, App: YES
+2015-06-04 19:41:57.594 UnfinishedBusiness[12857:402284] Unlimited access to network resources
+2015-06-04 19:41:57.597 UnfinishedBusiness[12857:402284] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 19:41:57.677 UnfinishedBusiness[12857:402284] [CDVTimer][file] 1.814008ms
+2015-06-04 19:41:57.677 UnfinishedBusiness[12857:402284] [CDVTimer][TotalPluginStartup] 1.989007ms
+2015-06-04 19:41:57.728 UnfinishedBusiness[12857:402284] Resetting plugins due to page load.
+2015-06-04 19:41:57.765 UnfinishedBusiness[12857:402284] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/DAC8C4B5-F421-4CD4-AE02-73E40B193769/UnfinishedBusiness.app/www/index.html
+2015-06-04 19:42:01.436 UnfinishedBusiness[12857:402284] Capture.captureVideo: video mode not available.
+2015-06-04 19:42:08.335 UnfinishedBusiness[12857:402284] Capture.captureVideo: video mode not available.
+2015-06-04 19:42:08.926 UnfinishedBusiness[12857:402284] Capture.captureVideo: video mode not available.
+2015-06-04 19:42:14.735 UnfinishedBusiness[12857:402284] Capture.captureVideo: video mode not available.
+2015-06-04 19:42:17.493 UnfinishedBusiness[12857:402284] Capture.captureVideo: video mode not available.
+2015-06-04 19:42:46.776 UnfinishedBusiness[13020:403073] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/0AB04771-A019-47D1-9976-7BCFF5383210/Library/Cookies/Cookies.binarycookies
+2015-06-04 19:42:46.875 UnfinishedBusiness[13020:403073] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 19:42:46.875 UnfinishedBusiness[13020:403073] Multi-tasking -> Device: YES, App: YES
+2015-06-04 19:42:46.878 UnfinishedBusiness[13020:403073] Unlimited access to network resources
+2015-06-04 19:42:46.880 UnfinishedBusiness[13020:403073] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 19:42:46.962 UnfinishedBusiness[13020:403073] [CDVTimer][file] 1.820028ms
+2015-06-04 19:42:46.962 UnfinishedBusiness[13020:403073] [CDVTimer][TotalPluginStartup] 1.994014ms
+2015-06-04 19:42:47.012 UnfinishedBusiness[13020:403073] Resetting plugins due to page load.
+2015-06-04 19:42:47.046 UnfinishedBusiness[13020:403073] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/FBFCEF70-E8A3-403B-9FF8-2D0313F63E37/UnfinishedBusiness.app/www/index.html
+2015-06-04 19:42:49.659 UnfinishedBusiness[13020:403073] Capture.captureVideo: video mode not available.
+2015-06-04 19:42:52.695 UnfinishedBusiness[13020:403073] Capture.captureVideo: video mode not available.
+2015-06-04 19:43:01.072 UnfinishedBusiness[13020:403073] CDVWebViewDelegate: Navigation started when state=1
+2015-06-04 19:43:01.073 UnfinishedBusiness[13020:403073] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-06-04 19:43:01.074 UnfinishedBusiness[13020:403073] Capture.captureVideo: video mode not available.
+2015-06-04 19:45:17.431 UnfinishedBusiness[13020:403073] CDVWebViewDelegate: Navigation started when state=1
+2015-06-04 19:45:17.433 UnfinishedBusiness[13020:403073] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-06-04 19:45:17.441 UnfinishedBusiness[13020:403073] Capture.captureVideo: video mode not available.
+2015-06-04 19:46:40.422 UnfinishedBusiness[13220:407128] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/D8EAB995-A9F2-457D-8875-A4AA5155AAC2/Library/Cookies/Cookies.binarycookies
+2015-06-04 19:46:40.506 UnfinishedBusiness[13220:407128] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 19:46:40.507 UnfinishedBusiness[13220:407128] Multi-tasking -> Device: YES, App: YES
+2015-06-04 19:46:40.509 UnfinishedBusiness[13220:407128] Unlimited access to network resources
+2015-06-04 19:46:40.511 UnfinishedBusiness[13220:407128] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 19:46:40.594 UnfinishedBusiness[13220:407128] [CDVTimer][file] 3.888965ms
+2015-06-04 19:46:40.594 UnfinishedBusiness[13220:407128] [CDVTimer][TotalPluginStartup] 4.096985ms
+2015-06-04 19:46:40.661 UnfinishedBusiness[13220:407128] Resetting plugins due to page load.
+2015-06-04 19:46:40.693 UnfinishedBusiness[13220:407128] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/D4D320EB-B8A8-463F-B44E-A94357DB2009/UnfinishedBusiness.app/www/index.html
+2015-06-04 19:46:47.404 UnfinishedBusiness[13220:407128] Capture.captureVideo: video mode not available.
+2015-06-04 19:47:21.772 UnfinishedBusiness[13382:407899] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/38371471-583E-46F7-9D88-106A8C75C7D0/Library/Cookies/Cookies.binarycookies
+2015-06-04 19:47:21.843 UnfinishedBusiness[13382:407899] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 19:47:21.844 UnfinishedBusiness[13382:407899] Multi-tasking -> Device: YES, App: YES
+2015-06-04 19:47:21.846 UnfinishedBusiness[13382:407899] Unlimited access to network resources
+2015-06-04 19:47:21.848 UnfinishedBusiness[13382:407899] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 19:47:21.934 UnfinishedBusiness[13382:407899] [CDVTimer][file] 3.840983ms
+2015-06-04 19:47:21.935 UnfinishedBusiness[13382:407899] [CDVTimer][TotalPluginStartup] 4.056990ms
+2015-06-04 19:47:21.999 UnfinishedBusiness[13382:407899] Resetting plugins due to page load.
+2015-06-04 19:47:22.034 UnfinishedBusiness[13382:407899] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/149707D5-C748-48D6-9018-9705F0196E5F/UnfinishedBusiness.app/www/index.html
+2015-06-04 19:47:38.804 UnfinishedBusiness[13382:407899] Capture.captureVideo: video mode not available.
+2015-06-04 20:17:46.220 UnfinishedBusiness[14407:436444] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/C5A2DCDE-B9A2-40AD-9955-258374C25A26/Library/Cookies/Cookies.binarycookies
+2015-06-04 20:17:46.297 UnfinishedBusiness[14407:436444] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 20:17:46.298 UnfinishedBusiness[14407:436444] Multi-tasking -> Device: YES, App: YES
+2015-06-04 20:17:46.300 UnfinishedBusiness[14407:436444] Unlimited access to network resources
+2015-06-04 20:17:46.302 UnfinishedBusiness[14407:436444] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 20:17:46.449 UnfinishedBusiness[14407:436444] Resetting plugins due to page load.
+2015-06-04 20:17:46.509 UnfinishedBusiness[14407:436444] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/338F0C6D-759E-4D17-812D-682A8D413E99/UnfinishedBusiness.app/www/index.html
+2015-06-04 20:17:48.984 UnfinishedBusiness[14407:436444] Capture.captureVideo: video mode not available.
+2015-06-04 20:17:51.017 UnfinishedBusiness[14407:436444] THREAD WARNING: ['VideoCapturePlus'] took '2033.583252' ms. Plugin should use a background thread.
+2015-06-04 20:17:52.201 UnfinishedBusiness[14407:436444] Capture.captureVideo: video mode not available.
+2015-06-04 20:17:53.928 UnfinishedBusiness[14407:436444] THREAD WARNING: ['VideoCapturePlus'] took '1727.617920' ms. Plugin should use a background thread.
+2015-06-04 20:17:55.059 UnfinishedBusiness[14407:436444] Capture.captureVideo: video mode not available.
+2015-06-04 20:17:56.427 UnfinishedBusiness[14407:436444] THREAD WARNING: ['VideoCapturePlus'] took '1368.428223' ms. Plugin should use a background thread.
+2015-06-04 20:17:57.596 UnfinishedBusiness[14407:436444] Capture.captureVideo: video mode not available.
+2015-06-04 20:17:59.183 UnfinishedBusiness[14407:436444] THREAD WARNING: ['VideoCapturePlus'] took '1587.039062' ms. Plugin should use a background thread.
+2015-06-04 20:19:32.710 UnfinishedBusiness[14576:438247] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/97A51098-1167-4F9F-832B-39A6D8197FFB/Library/Cookies/Cookies.binarycookies
+2015-06-04 20:19:32.848 UnfinishedBusiness[14576:438247] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 20:19:32.849 UnfinishedBusiness[14576:438247] Multi-tasking -> Device: YES, App: YES
+2015-06-04 20:19:32.853 UnfinishedBusiness[14576:438247] Unlimited access to network resources
+2015-06-04 20:19:32.856 UnfinishedBusiness[14576:438247] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 20:19:33.023 UnfinishedBusiness[14576:438247] Resetting plugins due to page load.
+2015-06-04 20:19:33.095 UnfinishedBusiness[14576:438247] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/714E7F82-6372-4FE6-B0C5-81CDF0089D40/UnfinishedBusiness.app/www/index.html
+2015-06-04 20:19:37.829 UnfinishedBusiness[14576:438247] Capture.captureVideo: video mode not available.
+2015-06-04 20:19:39.927 UnfinishedBusiness[14576:438247] THREAD WARNING: ['VideoCapturePlus'] took '2102.606934' ms. Plugin should use a background thread.
+2015-06-04 21:31:34.015 UnfinishedBusiness[14576:438247] Capture.captureVideo: video mode not available.
+2015-06-04 21:31:36.505 UnfinishedBusiness[14576:438247] THREAD WARNING: ['VideoCapturePlus'] took '2490.666748' ms. Plugin should use a background thread.
+2015-06-04 21:31:38.702 UnfinishedBusiness[14576:438247] Capture.captureVideo: video mode not available.
+2015-06-04 21:31:40.429 UnfinishedBusiness[14576:438247] THREAD WARNING: ['VideoCapturePlus'] took '1727.187988' ms. Plugin should use a background thread.
+2015-06-04 21:31:41.931 UnfinishedBusiness[14576:438247] Capture.captureVideo: video mode not available.
+2015-06-04 21:31:43.427 UnfinishedBusiness[14576:438247] THREAD WARNING: ['VideoCapturePlus'] took '1497.364990' ms. Plugin should use a background thread.
+2015-06-05 14:33:00.317 UnfinishedBusiness[14576:736756] Communications error: <OS_xpc_error: <error: 0x2de45f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2de483c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-06-09 15:42:53.792 UnfinishedBusiness[4239:48274] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/5A000683-194C-4DC6-A022-271A995204C6/Library/Cookies/Cookies.binarycookies
+2015-06-09 15:42:53.962 UnfinishedBusiness[4239:48274] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-09 15:42:53.962 UnfinishedBusiness[4239:48274] Multi-tasking -> Device: YES, App: YES
+2015-06-09 15:42:53.970 UnfinishedBusiness[4239:48274] Unlimited access to network resources
+2015-06-09 15:42:53.976 UnfinishedBusiness[4239:48274] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-09 15:42:54.285 UnfinishedBusiness[4239:48274] Resetting plugins due to page load.
+2015-06-09 15:42:54.390 UnfinishedBusiness[4239:48274] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/E3821DF6-7047-4C8C-8A38-3EB9BF85B853/UnfinishedBusiness.app/www/index.html
+2015-06-09 15:43:18.827 UnfinishedBusiness[4408:49261] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/22003F31-AE5C-4A97-8862-23245D44B684/Library/Cookies/Cookies.binarycookies
+2015-06-09 15:43:18.950 UnfinishedBusiness[4408:49261] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-09 15:43:18.951 UnfinishedBusiness[4408:49261] Multi-tasking -> Device: YES, App: YES
+2015-06-09 15:43:18.954 UnfinishedBusiness[4408:49261] Unlimited access to network resources
+2015-06-09 15:43:18.956 UnfinishedBusiness[4408:49261] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-09 15:43:19.080 UnfinishedBusiness[4408:49261] Resetting plugins due to page load.
+2015-06-09 15:43:19.136 UnfinishedBusiness[4408:49261] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/586E150A-2709-41A0-B66B-A19E7EA083D7/UnfinishedBusiness.app/www/index.html
+2015-06-10 21:48:25.090 UnfinishedBusiness[15639:777728] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/5A682023-62D3-4AAB-9DA4-21932757C271/Library/Cookies/Cookies.binarycookies
+2015-06-10 21:48:25.286 UnfinishedBusiness[15639:777728] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-10 21:48:25.287 UnfinishedBusiness[15639:777728] Multi-tasking -> Device: YES, App: YES
+2015-06-10 21:48:25.294 UnfinishedBusiness[15639:777728] Unlimited access to network resources
+2015-06-10 21:48:25.490 UnfinishedBusiness[15639:777728] [CDVTimer][file] 7.493019ms
+2015-06-10 21:48:25.491 UnfinishedBusiness[15639:777728] [CDVTimer][TotalPluginStartup] 7.694006ms
+2015-06-10 21:48:25.658 UnfinishedBusiness[15639:777728] Resetting plugins due to page load.
+2015-06-10 21:48:25.780 UnfinishedBusiness[15639:777728] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/DF412BFC-E0F4-40E1-AD1B-566BFDF7570C/UnfinishedBusiness.app/www/index.html
+2015-06-10 21:52:10.895 UnfinishedBusiness[15902:780984] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/140DDC22-97B6-40B6-B341-4E35265A3BC5/Library/Cookies/Cookies.binarycookies
+2015-06-10 21:52:11.187 UnfinishedBusiness[15902:780984] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-10 21:52:11.187 UnfinishedBusiness[15902:780984] Multi-tasking -> Device: YES, App: YES
+2015-06-10 21:52:11.191 UnfinishedBusiness[15902:780984] Unlimited access to network resources
+2015-06-10 21:52:11.275 UnfinishedBusiness[15902:780984] [CDVTimer][file] 1.940012ms
+2015-06-10 21:52:11.275 UnfinishedBusiness[15902:780984] [CDVTimer][TotalPluginStartup] 2.112985ms
+2015-06-10 21:52:11.351 UnfinishedBusiness[15902:780984] Resetting plugins due to page load.
+2015-06-10 21:52:11.424 UnfinishedBusiness[15902:780984] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/8617ABE4-CCA0-431A-8B8C-1729F24F00E8/UnfinishedBusiness.app/www/index.html
+2015-06-10 23:16:16.106 UnfinishedBusiness[17950:839907] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/CD7AAB69-2891-4276-B59D-F3177381F555/Library/Cookies/Cookies.binarycookies
+2015-06-10 23:16:16.239 UnfinishedBusiness[17950:839907] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-10 23:16:16.240 UnfinishedBusiness[17950:839907] Multi-tasking -> Device: YES, App: YES
+2015-06-10 23:16:16.242 UnfinishedBusiness[17950:839907] Unlimited access to network resources
+2015-06-10 23:16:16.332 UnfinishedBusiness[17950:839907] [CDVTimer][file] 4.197955ms
+2015-06-10 23:16:16.333 UnfinishedBusiness[17950:839907] [CDVTimer][TotalPluginStartup] 4.379988ms
+2015-06-10 23:16:16.387 UnfinishedBusiness[17950:839907] Resetting plugins due to page load.
+2015-06-10 23:16:16.448 UnfinishedBusiness[17950:839907] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/370815B7-7B2B-45DD-886E-07D09874DD2A/UnfinishedBusiness.app/www/index.html
+2015-06-10 23:21:04.664 UnfinishedBusiness[18840:845608] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/78CAD9E3-6154-46ED-BF47-6EFD961A5A7F/Library/Cookies/Cookies.binarycookies
+2015-06-10 23:21:04.764 UnfinishedBusiness[18840:845608] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-10 23:21:04.764 UnfinishedBusiness[18840:845608] Multi-tasking -> Device: YES, App: YES
+2015-06-10 23:21:04.766 UnfinishedBusiness[18840:845608] Unlimited access to network resources
+2015-06-10 23:21:04.852 UnfinishedBusiness[18840:845608] [CDVTimer][file] 4.884958ms
+2015-06-10 23:21:04.852 UnfinishedBusiness[18840:845608] [CDVTimer][TotalPluginStartup] 5.207002ms
+2015-06-10 23:21:04.896 UnfinishedBusiness[18840:845608] Resetting plugins due to page load.
+2015-06-10 23:21:04.943 UnfinishedBusiness[18840:845608] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/A5F8C6A4-11DB-47A5-ACD6-ED0139D90968/UnfinishedBusiness.app/www/index.html
+2015-06-23 19:57:40.860 UnfinishedBusiness[8100:337862] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/6CF344D2-6813-418B-B240-ACF1C8C6962C/Library/Cookies/Cookies.binarycookies
+2015-06-23 19:57:41.073 UnfinishedBusiness[8100:337862] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 19:57:41.074 UnfinishedBusiness[8100:337862] Multi-tasking -> Device: YES, App: YES
+2015-06-23 19:57:41.081 UnfinishedBusiness[8100:337862] Unlimited access to network resources
+2015-06-23 19:57:41.271 UnfinishedBusiness[8100:337862] [CDVTimer][file] 5.836010ms
+2015-06-23 19:57:41.271 UnfinishedBusiness[8100:337862] [CDVTimer][TotalPluginStartup] 6.067991ms
+2015-06-23 19:57:41.351 UnfinishedBusiness[8100:337862] Resetting plugins due to page load.
+2015-06-23 19:57:41.675 UnfinishedBusiness[8100:337862] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/7D720D61-2A09-4962-B54A-E27265F01C74/UnfinishedBusiness.app/www/index.html
+2015-06-23 20:01:15.517 UnfinishedBusiness[8313:342137] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/9DBFBEB5-59F3-43A7-B213-6C0F560C80A4/Library/Cookies/Cookies.binarycookies
+2015-06-23 20:01:15.676 UnfinishedBusiness[8313:342137] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 20:01:15.677 UnfinishedBusiness[8313:342137] Multi-tasking -> Device: YES, App: YES
+2015-06-23 20:01:15.679 UnfinishedBusiness[8313:342137] Unlimited access to network resources
+2015-06-23 20:01:15.765 UnfinishedBusiness[8313:342137] [CDVTimer][file] 2.537012ms
+2015-06-23 20:01:15.765 UnfinishedBusiness[8313:342137] [CDVTimer][TotalPluginStartup] 2.709985ms
+2015-06-23 20:01:15.828 UnfinishedBusiness[8313:342137] Resetting plugins due to page load.
+2015-06-23 20:01:15.969 UnfinishedBusiness[8313:342137] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/67355E9A-FCEA-48EF-98B1-9C54FBC404C9/UnfinishedBusiness.app/www/index.html
+2015-06-23 20:30:47.687 UnfinishedBusiness[1349:20227] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/E1ED1FCD-24CB-4A4B-BB65-4B1D50605589/Library/Cookies/Cookies.binarycookies
+2015-06-23 20:30:47.865 UnfinishedBusiness[1349:20227] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 20:30:47.866 UnfinishedBusiness[1349:20227] Multi-tasking -> Device: YES, App: YES
+2015-06-23 20:30:47.873 UnfinishedBusiness[1349:20227] Unlimited access to network resources
+2015-06-23 20:30:48.062 UnfinishedBusiness[1349:20227] [CDVTimer][file] 5.564988ms
+2015-06-23 20:30:48.062 UnfinishedBusiness[1349:20227] [CDVTimer][TotalPluginStartup] 5.762994ms
+2015-06-23 20:30:48.166 UnfinishedBusiness[1349:20227] Resetting plugins due to page load.
+2015-06-23 20:30:48.428 UnfinishedBusiness[1349:20227] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/DD2651A7-3444-4A7D-A2AA-FE4C2E70B4D8/UnfinishedBusiness.app/www/index.html
+2015-06-23 20:31:59.288 UnfinishedBusiness[1609:22874] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/56665B58-1500-4113-BCBC-703FBA2BC4EC/Library/Cookies/Cookies.binarycookies
+2015-06-23 20:31:59.379 UnfinishedBusiness[1609:22874] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 20:31:59.379 UnfinishedBusiness[1609:22874] Multi-tasking -> Device: YES, App: YES
+2015-06-23 20:31:59.381 UnfinishedBusiness[1609:22874] Unlimited access to network resources
+2015-06-23 20:31:59.470 UnfinishedBusiness[1609:22874] [CDVTimer][file] 2.865970ms
+2015-06-23 20:31:59.471 UnfinishedBusiness[1609:22874] [CDVTimer][TotalPluginStartup] 3.050983ms
+2015-06-23 20:31:59.541 UnfinishedBusiness[1609:22874] Resetting plugins due to page load.
+2015-06-23 20:31:59.726 UnfinishedBusiness[1609:22874] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/143C1619-C4A5-49A0-8ECA-50A5A25EC59B/UnfinishedBusiness.app/www/index.html
+2015-06-23 20:35:13.495 UnfinishedBusiness[1831:26295] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/BB973F62-ADFC-4475-B2CB-6E7710652254/Library/Cookies/Cookies.binarycookies
+2015-06-23 20:35:13.600 UnfinishedBusiness[1831:26295] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 20:35:13.600 UnfinishedBusiness[1831:26295] Multi-tasking -> Device: YES, App: YES
+2015-06-23 20:35:13.602 UnfinishedBusiness[1831:26295] Unlimited access to network resources
+2015-06-23 20:35:13.689 UnfinishedBusiness[1831:26295] [CDVTimer][file] 3.033996ms
+2015-06-23 20:35:13.689 UnfinishedBusiness[1831:26295] [CDVTimer][TotalPluginStartup] 3.205955ms
+2015-06-23 20:35:13.748 UnfinishedBusiness[1831:26295] Resetting plugins due to page load.
+2015-06-23 20:35:13.906 UnfinishedBusiness[1831:26295] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/3C133E24-A6DA-4F94-A4C1-39E52B84C2FC/UnfinishedBusiness.app/www/index.html
+2015-06-23 20:37:07.015 UnfinishedBusiness[2012:28535] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/FC180111-234B-447A-9147-646874B4D360/Library/Cookies/Cookies.binarycookies
+2015-06-23 20:37:07.196 UnfinishedBusiness[2012:28535] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 20:37:07.196 UnfinishedBusiness[2012:28535] Multi-tasking -> Device: YES, App: YES
+2015-06-23 20:37:07.200 UnfinishedBusiness[2012:28535] Unlimited access to network resources
+2015-06-23 20:37:07.287 UnfinishedBusiness[2012:28535] [CDVTimer][file] 2.168953ms
+2015-06-23 20:37:07.288 UnfinishedBusiness[2012:28535] [CDVTimer][TotalPluginStartup] 2.408981ms
+2015-06-23 20:37:07.422 UnfinishedBusiness[2012:28535] Resetting plugins due to page load.
+2015-06-23 20:37:07.537 UnfinishedBusiness[2012:28535] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/0A0193F8-C552-4487-B740-953A1AA300AB/UnfinishedBusiness.app/www/index.html
+2015-06-23 21:09:14.429 UnfinishedBusiness[3117:56141] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/7A70FD64-1D93-4F66-8718-C00F95ABAAE7/Library/Cookies/Cookies.binarycookies
+2015-06-23 21:09:14.593 UnfinishedBusiness[3117:56141] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 21:09:14.594 UnfinishedBusiness[3117:56141] Multi-tasking -> Device: YES, App: YES
+2015-06-23 21:09:14.601 UnfinishedBusiness[3117:56141] Unlimited access to network resources
+2015-06-23 21:09:14.776 UnfinishedBusiness[3117:56141] [CDVTimer][file] 5.551994ms
+2015-06-23 21:09:14.776 UnfinishedBusiness[3117:56141] [CDVTimer][TotalPluginStartup] 5.742013ms
+2015-06-23 21:09:14.879 UnfinishedBusiness[3117:56141] Resetting plugins due to page load.
+2015-06-23 21:09:15.100 UnfinishedBusiness[3117:56141] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/AA559A4B-5F35-44C5-A472-BB927ACE8FF3/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:10:19.417 UnfinishedBusiness[4182:100691] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/A8683E85-5503-4431-BBC1-C0901AC8114E/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:10:19.558 UnfinishedBusiness[4182:100691] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:10:19.559 UnfinishedBusiness[4182:100691] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:10:19.561 UnfinishedBusiness[4182:100691] Unlimited access to network resources
+2015-06-23 22:10:19.644 UnfinishedBusiness[4182:100691] [CDVTimer][file] 2.824008ms
+2015-06-23 22:10:19.644 UnfinishedBusiness[4182:100691] [CDVTimer][TotalPluginStartup] 3.001034ms
+2015-06-23 22:10:19.695 UnfinishedBusiness[4182:100691] Resetting plugins due to page load.
+2015-06-23 22:10:19.873 UnfinishedBusiness[4182:100691] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/5E870E24-AB4F-4690-8264-5629C6A31C11/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:11:18.262 UnfinishedBusiness[4182:101727] Terminating since there is no system app.
+2015-06-23 22:11:41.450 UnfinishedBusiness[4384:103022] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/659E9E93-E4C0-48F2-8ED7-FC1ACBAD7E76/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:11:41.633 UnfinishedBusiness[4384:103022] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:11:41.633 UnfinishedBusiness[4384:103022] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:11:41.637 UnfinishedBusiness[4384:103022] Unlimited access to network resources
+2015-06-23 22:11:41.725 UnfinishedBusiness[4384:103022] [CDVTimer][file] 1.975000ms
+2015-06-23 22:11:41.725 UnfinishedBusiness[4384:103022] [CDVTimer][TotalPluginStartup] 2.170980ms
+2015-06-23 22:11:41.764 UnfinishedBusiness[4384:103022] Resetting plugins due to page load.
+2015-06-23 22:11:41.930 UnfinishedBusiness[4384:103022] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/0443C27E-0DF6-4FFF-ADC6-69D7D531A412/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:14:11.967 UnfinishedBusiness[4558:106485] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/C31DCFDF-EEB5-4DFC-A12A-2DE7D5C58432/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:14:12.063 UnfinishedBusiness[4558:106485] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:14:12.063 UnfinishedBusiness[4558:106485] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:14:12.065 UnfinishedBusiness[4558:106485] Unlimited access to network resources
+2015-06-23 22:14:12.161 UnfinishedBusiness[4558:106485] [CDVTimer][file] 3.750026ms
+2015-06-23 22:14:12.162 UnfinishedBusiness[4558:106485] [CDVTimer][TotalPluginStartup] 3.938019ms
+2015-06-23 22:14:12.213 UnfinishedBusiness[4558:106485] Resetting plugins due to page load.
+2015-06-23 22:14:12.452 UnfinishedBusiness[4558:106485] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/78B636BA-1C1F-4F91-92FC-97BCF439DA00/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:18:58.957 UnfinishedBusiness[4731:110867] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/995892DC-CBF6-40CD-9730-42EC336ECA07/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:18:59.120 UnfinishedBusiness[4731:110867] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:18:59.120 UnfinishedBusiness[4731:110867] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:18:59.122 UnfinishedBusiness[4731:110867] Unlimited access to network resources
+2015-06-23 22:18:59.212 UnfinishedBusiness[4731:110867] [CDVTimer][file] 2.153993ms
+2015-06-23 22:18:59.212 UnfinishedBusiness[4731:110867] [CDVTimer][TotalPluginStartup] 2.372980ms
+2015-06-23 22:18:59.486 UnfinishedBusiness[4731:110867] Resetting plugins due to page load.
+2015-06-23 22:18:59.649 UnfinishedBusiness[4731:110867] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/B47780F2-19D6-4217-A6CD-76A00FA9C6AF/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:23:18.831 UnfinishedBusiness[4935:116345] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/8954DB5D-756C-405C-86E2-B9E921B81198/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:23:19.015 UnfinishedBusiness[4935:116345] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:23:19.016 UnfinishedBusiness[4935:116345] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:23:19.018 UnfinishedBusiness[4935:116345] Unlimited access to network resources
+2015-06-23 22:23:19.109 UnfinishedBusiness[4935:116345] [CDVTimer][file] 3.326952ms
+2015-06-23 22:23:19.109 UnfinishedBusiness[4935:116345] [CDVTimer][TotalPluginStartup] 3.780007ms
+2015-06-23 22:23:19.213 UnfinishedBusiness[4935:116345] Resetting plugins due to page load.
+2015-06-23 22:23:19.374 UnfinishedBusiness[4935:116345] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/9F8039F0-90E0-457C-BB33-EA4D769B3725/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:25:53.944 UnfinishedBusiness[5120:120195] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/ECEAAB89-0A1A-4CD7-B04B-104AC9EB33EB/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:25:54.115 UnfinishedBusiness[5120:120195] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:25:54.115 UnfinishedBusiness[5120:120195] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:25:54.119 UnfinishedBusiness[5120:120195] Unlimited access to network resources
+2015-06-23 22:25:54.208 UnfinishedBusiness[5120:120195] [CDVTimer][file] 3.605008ms
+2015-06-23 22:25:54.208 UnfinishedBusiness[5120:120195] [CDVTimer][TotalPluginStartup] 3.786981ms
+2015-06-23 22:25:54.264 UnfinishedBusiness[5120:120195] Resetting plugins due to page load.
+2015-06-23 22:25:54.467 UnfinishedBusiness[5120:120195] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/94C8D478-A44A-4919-A36A-67530A3ACCE9/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:26:29.446 UnfinishedBusiness[5280:121397] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/68070161-0D5B-4D15-A37F-DBEC00A15E8E/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:26:29.602 UnfinishedBusiness[5280:121397] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:26:29.603 UnfinishedBusiness[5280:121397] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:26:29.606 UnfinishedBusiness[5280:121397] Unlimited access to network resources
+2015-06-23 22:26:29.691 UnfinishedBusiness[5280:121397] [CDVTimer][file] 3.151953ms
+2015-06-23 22:26:29.692 UnfinishedBusiness[5280:121397] [CDVTimer][TotalPluginStartup] 3.330946ms
+2015-06-23 22:26:29.736 UnfinishedBusiness[5280:121397] Resetting plugins due to page load.
+2015-06-23 22:26:29.903 UnfinishedBusiness[5280:121397] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/B180E407-DEB9-4AE1-BC57-B77E607397B6/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:33:47.672 UnfinishedBusiness[6015:131472] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/B59682C6-1A2C-4B3C-9035-500BBD33AB59/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:33:47.779 UnfinishedBusiness[6015:131472] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:33:47.780 UnfinishedBusiness[6015:131472] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:33:47.782 UnfinishedBusiness[6015:131472] Unlimited access to network resources
+2015-06-23 22:33:47.882 UnfinishedBusiness[6015:131472] [CDVTimer][file] 3.453016ms
+2015-06-23 22:33:47.882 UnfinishedBusiness[6015:131472] [CDVTimer][TotalPluginStartup] 3.628016ms
+2015-06-23 22:33:47.939 UnfinishedBusiness[6015:131472] Resetting plugins due to page load.
+2015-06-23 22:33:48.054 UnfinishedBusiness[6015:131472] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/E45DBC35-CBF7-4402-94A8-9AA77D9A7838/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:36:12.809 UnfinishedBusiness[6343:135892] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/849FB4D2-6DB9-4799-8607-9D4727F479A5/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:36:12.996 UnfinishedBusiness[6343:135892] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:36:12.997 UnfinishedBusiness[6343:135892] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:36:13.000 UnfinishedBusiness[6343:135892] Unlimited access to network resources
+2015-06-23 22:36:13.090 UnfinishedBusiness[6343:135892] [CDVTimer][file] 2.106965ms
+2015-06-23 22:36:13.090 UnfinishedBusiness[6343:135892] [CDVTimer][TotalPluginStartup] 2.409995ms
+2015-06-23 22:36:13.240 UnfinishedBusiness[6343:135892] Resetting plugins due to page load.
+2015-06-23 22:36:13.345 UnfinishedBusiness[6343:135892] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/716F04CD-4321-42DF-9688-523AA4B1445C/UnfinishedBusiness.app/www/index.html
+2015-06-23 22:36:41.374 UnfinishedBusiness[6502:137128] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/2C534FD9-C613-402C-ABB0-2F1A6C0B02C0/Library/Cookies/Cookies.binarycookies
+2015-06-23 22:36:41.479 UnfinishedBusiness[6502:137128] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 22:36:41.480 UnfinishedBusiness[6502:137128] Multi-tasking -> Device: YES, App: YES
+2015-06-23 22:36:41.483 UnfinishedBusiness[6502:137128] Unlimited access to network resources
+2015-06-23 22:36:41.583 UnfinishedBusiness[6502:137128] [CDVTimer][file] 3.593981ms
+2015-06-23 22:36:41.583 UnfinishedBusiness[6502:137128] [CDVTimer][TotalPluginStartup] 3.782988ms
+2015-06-23 22:36:41.632 UnfinishedBusiness[6502:137128] Resetting plugins due to page load.
+2015-06-23 22:36:41.744 UnfinishedBusiness[6502:137128] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/D73C9D25-4CF8-4AE0-9415-635E0B21BDF0/UnfinishedBusiness.app/www/index.html

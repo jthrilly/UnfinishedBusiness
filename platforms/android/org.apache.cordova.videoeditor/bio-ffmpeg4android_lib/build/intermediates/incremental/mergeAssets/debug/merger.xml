@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/joshua/Sites/UnfinishedBusiness/platforms/android/org.apache.cordova.videoeditor/bio-ffmpeg4android_lib/assets"><file name="in.mp4" path="/Users/joshua/Sites/UnfinishedBusiness/platforms/android/org.apache.cordova.videoeditor/bio-ffmpeg4android_lib/assets/in.mp4"/></source></dataSet><dataSet config="debug"><source path="/Users/joshua/Sites/UnfinishedBusiness/platforms/android/org.apache.cordova.videoeditor/bio-ffmpeg4android_lib/src/debug/assets"/></dataSet></merger>
