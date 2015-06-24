@@ -424,3 +424,65 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-06-23 22:36:41.583 UnfinishedBusiness[6502:137128] [CDVTimer][TotalPluginStartup] 3.782988ms
 2015-06-23 22:36:41.632 UnfinishedBusiness[6502:137128] Resetting plugins due to page load.
 2015-06-23 22:36:41.744 UnfinishedBusiness[6502:137128] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/D73C9D25-4CF8-4AE0-9415-635E0B21BDF0/UnfinishedBusiness.app/www/index.html
+2015-06-23 23:34:49.026 UnfinishedBusiness[9984:214113] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/2E761A90-399F-4ED3-99D2-30278FD70710/Library/Cookies/Cookies.binarycookies
+2015-06-23 23:34:49.126 UnfinishedBusiness[9984:214113] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 23:34:49.126 UnfinishedBusiness[9984:214113] Multi-tasking -> Device: YES, App: YES
+2015-06-23 23:34:49.128 UnfinishedBusiness[9984:214113] Unlimited access to network resources
+2015-06-23 23:34:49.232 UnfinishedBusiness[9984:214113] [CDVTimer][file] 2.806962ms
+2015-06-23 23:34:49.232 UnfinishedBusiness[9984:214113] [CDVTimer][TotalPluginStartup] 3.054023ms
+2015-06-23 23:34:49.287 UnfinishedBusiness[9984:214113] Resetting plugins due to page load.
+2015-06-23 23:34:49.435 UnfinishedBusiness[9984:214113] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/5239D5BA-9CCD-4D42-8271-EF53ADC03185/UnfinishedBusiness.app/www/index.html
+2015-06-23 23:35:14.425 UnfinishedBusiness[9984:214113] Resetting plugins due to page load.
+2015-06-23 23:35:14.787 UnfinishedBusiness[9984:214113] Finished load of: http://beta.mindful-monkey.com/test/index.php
+2015-06-24 00:14:26.479 UnfinishedBusiness[10607:260055] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/5B8AF862-455F-4691-90AF-7A012BAD7A9D/Library/Cookies/Cookies.binarycookies
+2015-06-24 00:14:26.566 UnfinishedBusiness[10607:260055] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 00:14:26.566 UnfinishedBusiness[10607:260055] Multi-tasking -> Device: YES, App: YES
+2015-06-24 00:14:26.569 UnfinishedBusiness[10607:260055] Unlimited access to network resources
+2015-06-24 00:14:26.664 UnfinishedBusiness[10607:260055] [CDVTimer][file] 2.568960ms
+2015-06-24 00:14:26.664 UnfinishedBusiness[10607:260055] [CDVTimer][TotalPluginStartup] 2.757013ms
+2015-06-24 00:14:26.731 UnfinishedBusiness[10607:260055] Resetting plugins due to page load.
+2015-06-24 00:14:26.865 UnfinishedBusiness[10607:260055] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/2C38BFC2-E14E-451C-A368-383DBE398ED7/UnfinishedBusiness.app/www/index.html
+2015-06-24 00:14:33.695 UnfinishedBusiness[10607:260055] ERROR: Plugin 'AudioRecorder' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-24 00:14:33.695 UnfinishedBusiness[10607:260055] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AudioRecorder1457520985","AudioRecorder","record",[]]
+2015-06-24 00:14:35.437 UnfinishedBusiness[10607:260055] ERROR: Plugin 'AudioRecorder' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-24 00:14:35.437 UnfinishedBusiness[10607:260055] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AudioRecorder1457520986","AudioRecorder","record",[]]
+2015-06-24 00:14:50.816 UnfinishedBusiness[10607:260055] ERROR: Plugin 'AudioRecorder' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-24 00:14:50.816 UnfinishedBusiness[10607:260055] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AudioRecorder1457520987","AudioRecorder","record",[]]
+2015-06-24 00:14:51.294 UnfinishedBusiness[10607:260055] ERROR: Plugin 'AudioRecorder' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-24 00:14:51.294 UnfinishedBusiness[10607:260055] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AudioRecorder1457520988","AudioRecorder","record",[]]
+2015-06-24 00:14:56.725 UnfinishedBusiness[10607:260055] ERROR: Plugin 'AudioRecorder' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-24 00:14:56.725 UnfinishedBusiness[10607:260055] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AudioRecorder1457520989","AudioRecorder","record",[]]
+2015-06-24 00:15:33.810 UnfinishedBusiness[10607:260055] ERROR: Plugin 'AudioRecorder' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-24 00:15:33.810 UnfinishedBusiness[10607:260055] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AudioRecorder1457520990","AudioRecorder","record",[]]
+2015-06-24 00:16:07.159 UnfinishedBusiness[10607:260055] THREAD WARNING: ['Notification'] took '25.848877' ms. Plugin should use a background thread.
+2015-06-24 00:16:32.433 UnfinishedBusiness[10607:260055] THREAD WARNING: ['Notification'] took '15055.007080' ms. Plugin should use a background thread.
+2015-06-24 00:16:32.433 UnfinishedBusiness[10607:260234] void SendDelegateMessage(NSInvocation *): delegate (webView:decidePolicyForNavigationAction:request:frame:decisionListener:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-24 00:17:40.811 UnfinishedBusiness[10756:264657] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/A7DFD6BE-83F5-4B9F-850A-10455C3BFEA9/Library/Cookies/Cookies.binarycookies
+2015-06-24 00:17:40.869 UnfinishedBusiness[10756:264657] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 00:17:40.870 UnfinishedBusiness[10756:264657] Multi-tasking -> Device: YES, App: YES
+2015-06-24 00:17:40.872 UnfinishedBusiness[10756:264657] Unlimited access to network resources
+2015-06-24 00:17:40.959 UnfinishedBusiness[10756:264657] [CDVTimer][file] 2.822995ms
+2015-06-24 00:17:40.959 UnfinishedBusiness[10756:264657] [CDVTimer][TotalPluginStartup] 3.214002ms
+2015-06-24 00:17:41.001 UnfinishedBusiness[10756:264657] Resetting plugins due to page load.
+2015-06-24 00:17:41.109 UnfinishedBusiness[10756:264657] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/F965FF6D-2F31-4824-974C-9B80779FA98F/UnfinishedBusiness.app/www/index.html
+2015-06-24 00:20:28.025 UnfinishedBusiness[10756:264657] ERROR: Plugin 'AudioRecorder' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-24 00:20:28.026 UnfinishedBusiness[10756:264657] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AudioRecorder968463553","AudioRecorder","record",[]]
+2015-06-24 00:20:47.438 UnfinishedBusiness[10756:264657] ERROR: Plugin 'AudioRecorder' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-24 00:20:47.438 UnfinishedBusiness[10756:264657] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["AudioRecorder968463554","AudioRecorder","record",[]]
+2015-06-24 00:24:14.559 UnfinishedBusiness[10964:273708] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/F3CFC8D2-0056-4CA9-8222-D2F245C48139/Library/Cookies/Cookies.binarycookies
+2015-06-24 00:24:14.679 UnfinishedBusiness[10964:273708] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 00:24:14.680 UnfinishedBusiness[10964:273708] Multi-tasking -> Device: YES, App: YES
+2015-06-24 00:24:14.682 UnfinishedBusiness[10964:273708] Unlimited access to network resources
+2015-06-24 00:24:14.772 UnfinishedBusiness[10964:273708] [CDVTimer][file] 2.668023ms
+2015-06-24 00:24:14.772 UnfinishedBusiness[10964:273708] [CDVTimer][TotalPluginStartup] 2.849042ms
+2015-06-24 00:24:14.851 UnfinishedBusiness[10964:273708] Resetting plugins due to page load.
+2015-06-24 00:24:14.978 UnfinishedBusiness[10964:273708] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/D22210DF-B5BD-4460-B15E-9BA48E918DD6/UnfinishedBusiness.app/www/index.html
+2015-06-24 00:25:22.187 UnfinishedBusiness[10964:273708] THREAD WARNING: ['Capture'] took '11.104980' ms. Plugin should use a background thread.
+2015-06-24 00:45:15.618 UnfinishedBusiness[11348:299496] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Data/Application/16A5EF99-E384-429E-9843-F141B21A3AC5/Library/Cookies/Cookies.binarycookies
+2015-06-24 00:45:15.785 UnfinishedBusiness[11348:299496] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 00:45:15.786 UnfinishedBusiness[11348:299496] Multi-tasking -> Device: YES, App: YES
+2015-06-24 00:45:15.788 UnfinishedBusiness[11348:299496] Unlimited access to network resources
+2015-06-24 00:45:15.871 UnfinishedBusiness[11348:299496] [CDVTimer][file] 2.295017ms
+2015-06-24 00:45:15.871 UnfinishedBusiness[11348:299496] [CDVTimer][TotalPluginStartup] 2.478004ms
+2015-06-24 00:45:15.926 UnfinishedBusiness[11348:299496] Resetting plugins due to page load.
+2015-06-24 00:45:16.065 UnfinishedBusiness[11348:299496] Finished load of: file:///Users/joshua/Library/Developer/CoreSimulator/Devices/6FB1A616-34D2-4893-8838-5BA2E07B86C5/data/Containers/Bundle/Application/88BA8B89-4733-4FB8-A415-642CA59B4720/UnfinishedBusiness.app/www/index.html

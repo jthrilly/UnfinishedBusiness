@@ -3,10 +3,30 @@
 @import (inline) '../bower_components/swiper/dist/css/swiper.min.css';
 
 
+* {
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+@font-face {
+	font-family: 'Conv_NoMoRg__';
+	src: url('../fonts/NoMoRg__.eot');
+	src: local('☺'), url('../fonts/NoMoRg__.woff') format('woff'), url('../fonts/NoMoRg__.ttf') format('truetype'), url('../fonts/NoMoRg__.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_NoMoBd__';
+	src: url('fonts/NoMoBd__.eot');
+	src: local('☺'), url('../fonts/NoMoBd__.woff') format('woff'), url('../fonts/NoMoBd__.ttf') format('truetype'), url('../fonts/NoMoBd__.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 body {
     height:100vh;
     overflow:hidden;
-    border:5vmin solid white;
+    border:5.4vmin solid white;
 }
 
 .swiper-container {
@@ -34,7 +54,21 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1.title-page {
-    font-size:18vmin;
+    font-size:17vmin;
+    font-weight:900;
+}
+
+.btn {
+    border-width:1vmin;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    background:rgba(255,255,255,0.4);
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn.active.focus {
+    outline: none;
 }
 
 #bg {

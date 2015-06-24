@@ -10,13 +10,13 @@
                     "CoreGraphics.framework": [
                         {
                             "xml": false,
-                            "count": 1
+                            "count": 2
                         }
                     ],
                     "MobileCoreServices.framework": [
                         {
                             "xml": false,
-                            "count": 2
+                            "count": 3
                         }
                     ],
                     "ImageIO.framework": [],
@@ -24,21 +24,11 @@
                     "AssetsLibrary.framework": [
                         {
                             "xml": false,
-                            "count": 3
+                            "count": 2
                         }
                     ],
-                    "AVFoundation.framework": [
-                        {
-                            "xml": false,
-                            "count": 1
-                        }
-                    ],
-                    "MediaPlayer.framework": [
-                        {
-                            "xml": false,
-                            "count": 1
-                        }
-                    ],
+                    "AVFoundation.framework": [],
+                    "MediaPlayer.framework": [],
                     "AudioToolbox.framework": [
                         {
                             "xml": true,
@@ -59,15 +49,23 @@
                             "count": 1
                         },
                         {
-                            "xml": "<feature name=\"VideoEditor\"><param name=\"ios-package\" value=\"VideoEditor\" /></feature>",
-                            "count": 1
-                        },
-                        {
                             "xml": "<feature name=\"FileTransfer\"><param name=\"ios-package\" value=\"CDVFileTransfer\" /></feature>",
                             "count": 1
                         },
                         {
                             "xml": "<feature name=\"Notification\"><param name=\"ios-package\" value=\"CDVNotification\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Device\"><param name=\"ios-package\" value=\"CDVDevice\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Capture\"><param name=\"ios-package\" value=\"CDVCapture\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Media\"><param name=\"ios-package\" value=\"CDVSound\" /></feature>",
                             "count": 1
                         }
                     ]
@@ -90,13 +88,19 @@
         "cordova-plugin-file": {
             "PACKAGE_NAME": "com.thisisunfinished.bio"
         },
-        "org.apache.cordova.videoeditor": {
-            "PACKAGE_NAME": "com.thisisunfinished.bio"
-        },
         "cordova-plugin-file-transfer": {
             "PACKAGE_NAME": "com.thisisunfinished.bio"
         },
         "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.thisisunfinished.bio"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.thisisunfinished.bio"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.thisisunfinished.bio"
+        },
+        "cordova-plugin-media": {
             "PACKAGE_NAME": "com.thisisunfinished.bio"
         }
     },
